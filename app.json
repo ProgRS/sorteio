@@ -7,6 +7,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "797bdc63-e7eb-42ec-a531-974381daade0"
+      }
+    },
+    "android": {
+      "package": "com.luis1986.variaveisEstado"
+    }
   }
 }
